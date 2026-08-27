@@ -29,10 +29,6 @@ if (uc==1):
     if CGPA < 0 or CGPA > 10:
         print("[ERROR] CGPA must be between 0.0 and 10.0")
         exit()
-    # cl= input ("Enter class from the (A,B,C,D,E) :")
-    # if cl not in ["A", "B", "C", "D", "E"]:
-    #     print("[ERROR] Invalid class.")
-    #     exit()
 
     print("1.UG")
     print("2.PG")
